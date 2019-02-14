@@ -1,2 +1,2 @@
 # hmwk
-knees beez treez please freeze yeezy
+knees bees trees freeze yeez
