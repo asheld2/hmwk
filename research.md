@@ -1,0 +1,3 @@
+![Reasearch Pic](new_research_image.jpg)
+This is an image representing data sets used by generative adversarial networks. The caption reads, "Stacked MNIST dataset, a variant of the MNIST data is specifically designed to increase the number of discrete modes.The data is synthesized by stacking three randomly sampled MNIST digits along the color channel resulting in a 28x28x3 image."
+I chose this picture to inspire the imagery for my project, and because I love how some of the generated numbers have become distorted. Any generated image produced by a GAN is just a data set, a result of multiple probability functions, and it's interesting to see the actual data set behind the resulting image.
