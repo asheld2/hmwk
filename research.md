@@ -1,4 +1,4 @@
-![Reasearch Pic](research.png)
+![Research Pic](research.png)
 * Title: Datasets produced by various generative models
 * Date: Published May 25th, 2017
 * Dimensions: unknown
