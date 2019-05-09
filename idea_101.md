@@ -6,4 +6,4 @@ A random noise signal is fed to the generator, which it transposes into pixels t
 
 GANs have been used for a variety of purposes. A computer-generated painting called Edmond de Belamy sold for $432,000 in 2018, which has led to very interesting discourse on how the value of art is changing in the digital age. There is a scary possibility that GANs will put artists and designers out of work - GANs can now auto-generate video game characters, design graphics, and compose music. MidiNet is an example of a GAN that can generate melodies. They’ve even been used to style outfits, like with DiscoGAN, a adversarial network that can select clothes based on style, color, texture, and compatibility. However, GANs bring a myriad of other possibilities into the world, especially as they are a powerful tool for art-making.
 
-![final](final.jpg)
+![final](final2.jpg)
