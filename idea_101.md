@@ -1,4 +1,4 @@
-*Neural Networks*
+**Neural Networks**
 
 In 2014, Ian Goodfellow and a team of other computer scientists further coined the term General Adversarial Networks - a type of artificial intelligence that can identify and generate realistic images. The idea of adversarial networks was half-conceptualized in the 1960s, but due to lack of resources, wasn’t fully realized. Later on it was reinvented by Jurgen Schmidhuber in 1990. He came up with the idea of opposing neural networks, called Net 1 and Net 2. GANs work in a similar way - they have two networks called a generator and discriminator. These engage in a zero-sum probability game: the generator produces an image, and the discriminator determines the probability that it looks like the real thing.
 
